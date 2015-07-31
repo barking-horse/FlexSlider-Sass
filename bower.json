@@ -1,0 +1,32 @@
+{
+  "name": "flexslider-sass",
+  "version": "2.5.0",
+  "homepage": "https://github.com/timalbert/FlexSlider-Sass",
+  "authors": [
+    "WooThemes <jeff@woothemes.com>",
+    "Tim Albert"
+  ],
+  "description": "An awesome, fully responsive jQuery slider toolkit.",
+  "main": [
+    "jquery.flexslider.js",
+    "flexslider.scss"
+  ],
+  "keywords": [
+    "flexslider",
+    "jquery",
+    "slider",
+    "woothemes",
+    "automattic"
+  ],
+  "license": "GPLv2 and later",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.11.3"
+  }
+}
