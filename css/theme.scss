@@ -28,7 +28,7 @@
 
   max-height: $flex-viewport-max-height; 
 
-  .transition();
+  @include transition();
 
   .loading &{
 
@@ -291,7 +291,7 @@
     opacity: .7; 
     cursor: pointer;
 
-    .transition();
+    @include transition();
 
     &:hover {opacity: 1;}
 
