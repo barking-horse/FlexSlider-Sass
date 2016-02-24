@@ -188,7 +188,7 @@
 
   &:before {
 
-    font-family: "${font-name}";
+    font-family: "#{$font-name}";
     font-size: 20px;
     display: inline-block;
     content: $flex-pauseplay-icon-pause;
