@@ -1,10 +1,9 @@
 {
   "name": "flexslider-sass",
-  "version": "2.5.0",
+  "version": "2.6.0",
   "homepage": "https://github.com/timalbert/FlexSlider-Sass",
   "authors": [
-    "WooThemes <jeff@woothemes.com>",
-    "Tim Albert"
+    "WooThemes <jeff@woothemes.com>"
   ],
   "description": "An awesome, fully responsive jQuery slider toolkit.",
   "main": [
