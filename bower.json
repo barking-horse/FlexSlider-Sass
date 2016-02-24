@@ -9,7 +9,7 @@
   "main": [
     "jquery.flexslider.js",
     "styles/main.scss",
-    "./fonts/*"
+    "fonts/*"
   ],
   "keywords": [
     "flexslider",
